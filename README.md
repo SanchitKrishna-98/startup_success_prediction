@@ -1,6 +1,4 @@
-Here’s a polished README for your project: **Start-up Success Prediction** using machine learning and Streamlit.
 
----
 
 # 🚀 Start-up Success Prediction
 
